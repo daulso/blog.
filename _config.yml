@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+remote_theme :  poole/hyde
+  
+# Setup
+title:            'blog'
+tagline:          'A Jekyll theme'
+description:      'blog for study'
+url:              'http://daulso.github.io'
+baseurl:          ''
+
+author:           'da'
+  name:           'da'
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
